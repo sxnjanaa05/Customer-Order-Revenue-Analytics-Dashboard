@@ -19,3 +19,5 @@ Key Objectives:
 *Track revenue and order distribution
 
 *Support data-driven business decisions
+
+<img width="1178" height="669" alt="image" src="https://github.com/user-attachments/assets/2e7c2f41-b0c8-4b4d-98dd-69baa3c8d2c4" />
