@@ -8,17 +8,11 @@ The dashboard includes multiple analytical views such as age group analysis, gen
 
 By analyzing these metrics, businesses can better understand who their customers are, what they buy, and where the demand is highest.
 
-Key Objectives:
+## 📊 Power BI Dashboard File
+You can download and explore the interactive dashboard using **Microsoft Power BI Desktop**.
 
-*Analyze customer order patterns
-
-*Identify top-performing product categories
-
-*Understand customer demographics
-
-*Track revenue and order distribution
-
-*Support data-driven business decisions
+🔗 **Download the PBIX file:**
+[Customer Order Dashboard](Customer_Order_Dashboard.pbix)
 
 <img width="1178" height="669" alt="image" src="https://github.com/user-attachments/assets/2e7c2f41-b0c8-4b4d-98dd-69baa3c8d2c4" />
 <img width="1179" height="665" alt="image" src="https://github.com/user-attachments/assets/7f323ef1-f36f-446d-a988-2dce50967c19" />
