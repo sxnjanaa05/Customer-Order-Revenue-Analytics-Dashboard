@@ -21,3 +21,7 @@ Key Objectives:
 *Support data-driven business decisions
 
 <img width="1178" height="669" alt="image" src="https://github.com/user-attachments/assets/2e7c2f41-b0c8-4b4d-98dd-69baa3c8d2c4" />
+<img width="1179" height="665" alt="image" src="https://github.com/user-attachments/assets/7f323ef1-f36f-446d-a988-2dce50967c19" />
+<img width="1181" height="665" alt="image" src="https://github.com/user-attachments/assets/e3a90657-4a9d-4e1e-9c54-3d9fba932979" />
+<img width="1175" height="665" alt="image" src="https://github.com/user-attachments/assets/1a9fad94-06f5-4f97-bfc6-9e1d8ef0b118" />
+<img width="1179" height="667" alt="image" src="https://github.com/user-attachments/assets/aaa09648-bd03-4c72-aba2-e1859628b8ee" />
